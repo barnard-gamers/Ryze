@@ -1,0 +1,19 @@
+{
+  "name": "ryzebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0",
+    "franc": "^4.0.0",
+    "languagedetect": "^1.2.0",
+    "translate": "^1.0.3"
+  }
+}
